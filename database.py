@@ -1,5 +1,5 @@
 import os
-
+import database
 import validation
 
 user_db_path = 'data/user_record/'
